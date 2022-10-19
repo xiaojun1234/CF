@@ -4,7 +4,7 @@
     <div class="md:flex min-h-screen main-body">
         <div class="w-full md:w-1/2 bg-white flex items-center justify-center left-sec">
             <div class="max-w-sm m-8 content-body">
-                <div class="text-black text-5xl md:text-15xl font-black">test很抱歉，您的访问已被拦截</div>
+                <div class="text-black text-5xl md:text-15xl font-black">您的访问已被拦截</div>
 
                 <p class="text-grey-darker text-2xl md:text-3xl mb-7 leading-normal">
                     </p><p class="sub-header"><h1> 本站正在使用安全服务来保护自己免受在线攻击 </h1></p>
