@@ -8,7 +8,6 @@
 
                 <p class="text-grey-darker text-2xl md:text-3xl mb-7 leading-normal">
                     </p><p class="sub-header"><h1> 本站正在使用安全服务来保护自己免受在线攻击 </h1></p>
-                             <p class="sub-header"><h1> Contact：BlueSky@000714.xyz</h1></p>
 
                     <br><br>
                     您执行的操作触发了安全防御机制，因此被阻止访问，请您稍后再试<br><br>
