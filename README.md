@@ -17,6 +17,10 @@
                     <ul>
                         <li>Cloudflare事件ID: ::RAY_ID::</li>
                         <li>你的IP: ::CLIENT_IP::</li>
+                        <li>500错误::CLOUDFLARE_ERROR_500S_BOX::</li>
+                        <li>1000错误::CLOUDFLARE_ERROR_1000S_BOX::</li>
+                        <li>Always Online错误::ALWAYS_ONLINE_NO_COPY_BOX::</li>
+
                         <li>Performance &amp; Security by Cloudflare</li>
                     </ul>
                 </div> 
